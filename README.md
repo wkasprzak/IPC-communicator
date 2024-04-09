@@ -1,6 +1,7 @@
 # IPC-communicator
 
 This application functions as a message broadcasting system to all users subscribed to a particular message type. It is developed in C language and utilizes interprocess communication mechanisms. The application is designed for Unix systems.
+#### Co-creator: [MiBudzynski](https://github.com/MiBudzynski) </p>
 
 ## Compilation Instructions
 
